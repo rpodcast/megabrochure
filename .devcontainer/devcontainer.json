@@ -35,9 +35,6 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"ikuyadeu.r",
-		//"/renv/cache/r-latest.vslx",
-		//"mikhail-arkhipov.r",
-		//"REditorSupport.r-lsp",
 		"Rubymaniac.vscode-paste-and-indent",
 		"GrapeCity.gc-excelviewer",
 		"Mohamed-El-Fodil-Ihaddaden.shinysnip",
@@ -45,7 +42,7 @@
 		"MS-vsliveshare.vsliveshare-pack",
 		"ms-python.python",
 		"RDebugger.r-debugger",
-		//"GitHub.copilot",
+		"GitHub.copilot",
 		"eamodio.gitlens"
 	]
 
