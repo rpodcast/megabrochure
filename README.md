@@ -1,7 +1,7 @@
-# R Projects Development Template
+# megabrochure
 
-This repo provides a starting template for a containerized development environment for my R projects in data science and Shiny application development, tailored to both the RStudio IDE as well as Visual Studio Code. For a more detailed description, please see the [`.devcontainer/README.md`](.devcontainer/README.md)),
+This repo contains an early prototype of a Shiny application that is built with both the [`{golem}`](https://github.com/ThinkR-open/golem) and [`{brochure}`](https://github.com/ColinFay/brochure) packages to create a native multi-page Shiny app as a package. Expect many changes and debugging artifacts as I continue this learning journey!
 
-🎥 Check out this previous [Shiny Developer Series livestream](https://youtu.be/4wRiPG9LM3o) for a hands-on walkthrough of this setup!
+🎥 Check out the Shiny Developer Series YouTube [playlist](https://www.youtube.com/playlist?list=PLAaZGj4gj3pE4cSxWtE8F-TDE4MdCztxq) for archives of live streams or hands on screencasts feature this repository!
 
 
